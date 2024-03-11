@@ -35,11 +35,15 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/Lucasfantini/Lucasfantini/assets/163041474/9510634e-f088-4bf0-84f4-41a9b3be1f4a" min-width="80px" max-width="80px" width="80px" align="left" alt="Computador iuriCode">
 
 
-spodjeaso`naspidn
-  adsfasdfjas
-  asdf masdof asd+okas `dkf
-   asodkfp a
+👨‍🎓 I’m currently studying Computer Science at FAMAF - UNC, Cba, ARG.
 
+🛠 Not working on any specific projects, just trying to broaden my knowledge and improve my problem-solving skills.
+
+🧠 All repos are personal projects through which I've learned new stuff.
+
+📫 Reach me via email at tomiachaval2013@gmail.com
+
+🌐 My personal website (work in progress)
 
 <br>
 <br>
