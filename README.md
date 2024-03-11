@@ -17,6 +17,10 @@ You can click the Preview link to take a look at your changes.
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
    <img src="https://github.com/Lucasfantini/Lucasfantini/assets/163041474/5c5c2798-5330-4264-a605-d9e5a158be25" min-width="80px" max-width="1px" width="70px"  alt="Computador iuriCode">
+   spodjeaso`naspidn
+  adsfasdfjas
+  asdf masdof asd+okas `dkf
+   asodkfp a
 
 
 
