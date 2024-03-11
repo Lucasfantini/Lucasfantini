@@ -13,7 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## Language and Tools
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![Haskell](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![1694941386734](https://github.com/Lucasfantini/Lucasfantini/assets/163041474/a87175cf-41f3-4115-b028-fec741a3e8f5)
+
+
+<br>   
 
 
 
