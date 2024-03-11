@@ -16,7 +16,9 @@ You can click the Preview link to take a look at your changes.
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![1694941386734](https://github.com/Lucasfantini/Lucasfantini/assets/163041474/a87175cf-41f3-4115-b028-fec741a3e8f5) min-width="80px" max-width="80px" width="80px" align="left" alt="Computador iuriCode">
+   <img src="![1694941386734](https://github.com/Lucasfantini/Lucasfantini/assets/163041474/5c5c2798-5330-4264-a605-d9e5a158be25)
+" min-width="80px" max-width="80px" width="80px"  alt="Computador iuriCode">
+
 
 
 
