@@ -38,16 +38,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-👨‍🎓 I’m currently studying Computer Science at FAMAF - UNC, Cba, ARG.
-
-🛠 Not working on any specific projects, just trying to broaden my knowledge and improve my problem-solving skills.
-
-🧠 All repos are personal projects through which I've learned new stuff.
-
-📫 Reach me via email at tomiachaval2013@gmail.com
-
-🌐 My personal website (work in progress)
-
+👨‍🎓 I’m currently studying Computer Science at FAMAF - UNC, Cba, ARG. I am incorporating troubleshooting skills and also about pc architecture.
 <br>
 
 
