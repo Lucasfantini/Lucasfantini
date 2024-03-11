@@ -15,15 +15,18 @@ You can click the Preview link to take a look at your changes.
 
 ## Language and Tools
 
-<img src="https://github.com/Lucasfantini/Lucasfantini/assets/163041474/9510634e-f088-4bf0-84f4-41a9b3be1f4a" min-width="40px" max-width="40px" width="40px" align="left" alt="Computador iuriCode">
-
-
 
 
 
 <br>
 
 ## Academic Background:
+
+
+<img src="https://github.com/Lucasfantini/Lucasfantini/assets/163041474/9510634e-f088-4bf0-84f4-41a9b3be1f4a" min-width="80px" max-width="80px" width="80px" align="left" alt="Computador iuriCode">
+
+
+
 
 
 <br>
