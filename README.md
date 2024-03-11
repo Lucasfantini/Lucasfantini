@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.linkedin.com/in/lucas-fantini-ba3904222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lucass.fantini?igsh=emdwbWV0bTJoY2Mw"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lucass.fantini?igsh=emdwbWV0bTJoY2Mw"><img align="center" src="![gmail-new-icon5198](https://github.com/Lucasfantini/Lucasfantini/assets/163041474/15b5ba24-cf59-45d3-9103-d894ded76d07)"
+<a href="https://www.instagram.com/lucass.fantini?igsh=emdwbWV0bTJoY2Mw"><img align="center" src="https://github.com/Lucasfantini/Lucasfantini/assets/163041474/15b5ba24-cf59-45d3-9103-d894ded76d07"
  alt="anii_akhil" height="30" width="40" /></a>
                                   
                                      
